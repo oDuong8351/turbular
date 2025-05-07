@@ -3,3 +3,4 @@ name = "turbular"
 version = "0.1.0"
 description = "A MCP server allowing LLM agents to easily connect and retrieve data from any database"
 requires-python = ">=3.10"
+# drop an unused branch
