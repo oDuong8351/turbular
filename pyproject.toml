@@ -5,3 +5,4 @@ description = "A MCP server allowing LLM agents to easily connect and retrieve d
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# handle the edge case from the last release
