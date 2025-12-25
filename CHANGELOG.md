@@ -10,3 +10,4 @@
 - docs: fix a small wording issue
 - chore: clarify the setup steps
 - docs: add a note about the defaults
+- chore: fix a small wording issue
